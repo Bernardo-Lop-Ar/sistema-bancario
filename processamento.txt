@@ -1,3 +1,6 @@
-PROCESSAMENTO DE DADOS 
-Este arquivo contem informacoes sobre processamento. 
-Os dados serao processados pelo sistema. 
+=== RELATORIO DE PROCESSAMENTO ===
+PROCESSAMENTO DE DADOS
+Este arquivo contém informacoes sobre processamento.
+Os dados serao processados pelo sistema.
+
+=== FIM DO PROCESSAMENTO ===
