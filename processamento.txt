@@ -2,5 +2,3 @@
 PROCESSAMENTO DE DADOS
 Este arquivo contém informacoes sobre processamento.
 Os dados serao processados pelo sistema.
-
-=== FIM DO PROCESSAMENTO ===
